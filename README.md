@@ -8,6 +8,11 @@ provides a Gradio interface for trying the selected model.
 
 <img width="1207" height="900" alt="image" src="https://github.com/user-attachments/assets/fa989398-a7ff-4819-a004-c65c7c2a7ed3" />
 
+<img width="1198" height="897" alt="image" src="https://github.com/user-attachments/assets/34fabecc-8e91-49ef-9a0c-8d190272eeaa" />
+
+<img width="1235" height="861" alt="image" src="https://github.com/user-attachments/assets/790ca112-435f-4665-b625-96f5aa12f2b7" />
+
+
 > **Medical disclaimer:** This project is for educational and research
 > purposes only. Predictions are not a diagnosis and must not replace
 > assessment by a qualified dental professional.
@@ -206,6 +211,20 @@ review the predicted class and scores.
     needed.
 -   Do not use the model to make clinical decisions without appropriate
     validation and qualified professional oversight.
+
+## Dataset
+
+The dataset used in this project is the **[Oral Diseases Dataset on Kaggle](https://www.kaggle.com/datasets/salmansajid05/oral-diseases)**.
+
+It was used to train, validate, and evaluate deep learning models for classifying oral images into six categories.
+
+* **Source:** Kaggle
+* **Task:** Oral disease image classification
+* **Number of Classes Used:** 6
+* **Models Evaluated:** Custom CNN, MobileNetV2, and EfficientNetB0
+
+**Note:** Please refer to the original dataset page for licensing terms and usage permissions.
+
 
 ## Repository Notes
 
