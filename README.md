@@ -4,6 +4,9 @@ An image-classification project that uses deep learning to classify oral
 disease images into six categories. The project compares a custom
 Convolutional Neural Network (CNN) with transfer-learning models and
 provides a Gradio interface for trying the selected model.
+<img width="1272" height="901" alt="image" src="https://github.com/user-attachments/assets/1221ef7a-83e1-4d3e-ad57-1c533ba7b23f" />
+
+<img width="1207" height="900" alt="image" src="https://github.com/user-attachments/assets/fa989398-a7ff-4819-a004-c65c7c2a7ed3" />
 
 > **Medical disclaimer:** This project is for educational and research
 > purposes only. Predictions are not a diagnosis and must not replace
